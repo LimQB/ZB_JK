@@ -24,6 +24,11 @@
 		{
 			"url": "http://xhww.fun:63/小米/DEMO.json",
 			"name": "小米线路"
+		},
+		
+		{
+			"url": "http://bp.tvbox.cam/",
+			"name": "小白接口"
 		}
 		
 	]
