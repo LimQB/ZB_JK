@@ -2,6 +2,11 @@
 	"urls": [
 
 		{
+			"url": "https://raw.githubusercontent.com/LimQB/ZB_JK/main/yuan.json",
+			"name": "自用接口"
+		},
+		
+		{
 			"url": "https://xhdwc.tk/0",
 			"name": "骚零接口"
 		},
